@@ -1,0 +1,2 @@
+# sugiarto
+Mining avc
